@@ -3,7 +3,7 @@ import { toast } from "react-toastify"
 
 
 const api = axios.create({
-    baseURL: "http://localhost:3000",
+    baseURL: "https://skillsync-ai-jq8w.onrender.com/",
     withCredentials: true
 })
 
