@@ -1,4 +1,4 @@
-# HireMind AI 🚀
+# SkillSync- AI 🚀
 
 HireMind AI is an AI-powered career assistant that helps users analyze their resumes against job descriptions, identify skill gaps, generate personalized interview preparation roadmaps, and create ATS-optimized resumes.
 
